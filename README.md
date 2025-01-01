@@ -11,7 +11,7 @@ FinalMain.py: is used to run the whole pipeline.
 <br>
 The main aim of the ANPR project is to detect number plates of vehicles and extract text from it.The overall pipeline of the project also supports multiple stream and can also support multiple models at a time from different sources.
 
-<br>
+
 ### Steps and prerequisites for running ANPR Project:<br>
 1.Install flet in your system as we have developed the UI in flet.<br>
 2.Download the license_plate_detector.pt file weights. This model is traned for detecting number plates from vehicles.<br>
